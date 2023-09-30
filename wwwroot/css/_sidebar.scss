@@ -1,5 +1,5 @@
-﻿$bg-color: #a9a9a957;
-$text-color: rgb(82 82 82);
+﻿$bg-color: #7d15ce52;
+$text-color: rgb(255, 255, 255);
 
 .sidebar {
     display: flex;
@@ -15,7 +15,7 @@ $text-color: rgb(82 82 82);
     svg {
         width: 20px;
         height: 20px;
-        color: rgba(82 82 82);
+        color: rgb(255, 255, 255);
 
         &:hover {
             color: white;
