@@ -2,7 +2,7 @@ $message-bg-color: #f7f8fa;
 $mine-message-bg-color: #be6bff;
 $message-text-color: #333;
 $message-border-radius: 17px;
-$message-input-bg-color: #f5f5f5;
+$message-input-bg-color: #ffffff1f;
 
 .main-content {
     border-right: 1px solid #eee;
@@ -127,8 +127,8 @@ $message-input-bg-color: #f5f5f5;
     justify-content: space-between;
     align-items: center;
     background: $message-input-bg-color;
-    margin: 20px;
-    padding: 5px;
+    margin: 10px;
+    padding: 0px;
     border-radius: 10px;
     position: relative;
 
